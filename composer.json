@@ -7,7 +7,9 @@
             "email": "r10101720307@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "monolog/monolog": "^2.1"
+    },
     "autoload": {
         "psr-4": {
             "Demo\\": "./src/Demo"
