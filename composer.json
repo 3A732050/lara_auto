@@ -1,0 +1,11 @@
+{
+    "name": "ncut/lara_auto",
+    "description": "autoload classes",
+    "authors": [
+        {
+            "name": "LIN CHUN CHI",
+            "email": "r10101720307@gmail.com"
+        }
+    ],
+    "require": {}
+}
